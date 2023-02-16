@@ -17,7 +17,8 @@ Our Model is trained by their StarGAN pytorch implementation https://github.com/
   ~~~
 ## Result
 Check result in folder /Result/. The first column represent the input(origin) image, the other column represent the style transfered image.<br>
-![283-images](https://user-images.githubusercontent.com/49235533/219300120-fda18993-bf1e-49f6-b620-a5c089937e4e.jpg)
+![311-images](https://user-images.githubusercontent.com/49235533/219300308-b13e84a9-f9bd-4690-acc0-7f30b8acf30a.jpg)
+
 
 ## Train your own model
 Please used the dataset we provided in /dataset/ folder and the clone StarGAN pytorch implementation https://github.com/yunjey/stargan. Follow the Training instruction in their readme.
