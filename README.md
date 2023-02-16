@@ -17,7 +17,7 @@ This project uses the super resolution model ESRGAN pretrained by https://github
   python inference_model.py
   ~~~
 ## Result
-Check result in folder /Result/. The first column represent the input(origin) image, the other column represent the style transfered image.<br>
+Check result in folder /results/. The first column represent the input(origin) image, the other column represent the style transfered image.<br>
 ![4908410984](https://user-images.githubusercontent.com/49235533/219300562-36ca7135-4d4e-4104-b151-3db80fecb1d4.JPG)
 
 
