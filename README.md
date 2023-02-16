@@ -9,6 +9,6 @@ Put your input image in /inputs/ folder<br>
 Run
 ~~~
 python inference_model.py
-
+~~~
 ## Train your own model
 Please used the dataset in /dataset/ folder and the clone StarGAN pytorch implementation https://github.com/yunjey/stargan. Follow the Training instruction in their readme.
