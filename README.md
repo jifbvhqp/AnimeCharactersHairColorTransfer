@@ -1,6 +1,6 @@
 # AnimeCharactersHairColorTransfer
 
-Our model is trained by their StarGAN pytorch implementation https://github.com/yunjey/stargan.<br>
+We use their StarGAN pytorch implementation to train our model https://github.com/yunjey/stargan.<br>
 This project uses the super resolution model ESRGAN pretrained by https://github.com/xinntao/ESRGAN.
 
 ## Run Our Model
