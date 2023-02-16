@@ -3,7 +3,6 @@
 Our Model is trained by their StarGAN pytorch implementation https://github.com/yunjey/stargan
 
 ## Run Our Model
-
 1. Install requirements.txt
   ~~~
   pip install -r requirements.txt
@@ -16,5 +15,7 @@ Our Model is trained by their StarGAN pytorch implementation https://github.com/
   ~~~
   python inference_model.py
   ~~~
+## Result
+Check result in folder /Result/. The first column represent the input(origin) image, the other column represent the style transfered image.
 ## Train your own model
 Please used the dataset we provided in /dataset/ folder and the clone StarGAN pytorch implementation https://github.com/yunjey/stargan. Follow the Training instruction in their readme.
