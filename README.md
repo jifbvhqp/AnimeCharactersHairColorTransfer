@@ -1,6 +1,6 @@
 # AnimeCharactersHairColorTransfer
 
-Our Generator Model is trained by their StarGAN pytorch implementation https://github.com/yunjey/stargan
+Our Model is trained by their StarGAN pytorch implementation https://github.com/yunjey/stargan
 
 ## Run Our Model
 Put your input image in /inputs/ folder<br>
