@@ -4,10 +4,8 @@ Our Generator Model is trained by their StarGAN pytorch implementation https://g
 
 ## Run Our Model
 Put your input image in /inputs/ folder<br>
-
 ![484](https://user-images.githubusercontent.com/49235533/219293677-b4d1ae76-4241-4b57-bd59-095ed139e45f.JPG)
-
-Run
+Run model<br>
     python inference_model.py
 
 ## Train your own model
