@@ -16,6 +16,8 @@ Our Model is trained by their StarGAN pytorch implementation https://github.com/
   python inference_model.py
   ~~~
 ## Result
-Check result in folder /Result/. The first column represent the input(origin) image, the other column represent the style transfered image.
+Check result in folder /Result/. The first column represent the input(origin) image, the other column represent the style transfered image.<br>
+![283-images](https://user-images.githubusercontent.com/49235533/219300120-fda18993-bf1e-49f6-b620-a5c089937e4e.jpg)
+
 ## Train your own model
 Please used the dataset we provided in /dataset/ folder and the clone StarGAN pytorch implementation https://github.com/yunjey/stargan. Follow the Training instruction in their readme.
