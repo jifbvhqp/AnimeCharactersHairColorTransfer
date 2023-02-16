@@ -9,7 +9,7 @@ Our Model is trained by their StarGAN pytorch implementation https://github.com/
   pip install -r requirements.txt
   ~~~
 
-2. Put your input image in /inputs/ folder<br>
+2. Put your input image in /inputs/ folder
   ![484](https://user-images.githubusercontent.com/49235533/219293677-b4d1ae76-4241-4b57-bd59-095ed139e45f.JPG)
 
 3. Run
