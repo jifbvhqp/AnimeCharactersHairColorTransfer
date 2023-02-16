@@ -23,4 +23,4 @@ Check result in folder /Result/. The first column represent the input(origin) im
 
 
 ## Train your own model
-Please used the dataset we provided in /dataset/ folder and the clone StarGAN pytorch implementation https://github.com/yunjey/stargan. Follow the Training instruction in their readme.
+Please used the dataset we provided in /dataset/ folder and clone their StarGAN pytorch implementation https://github.com/yunjey/stargan. Follow the Training instruction in their readme.
